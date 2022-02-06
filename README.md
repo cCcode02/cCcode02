@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://blog.naver.com/boil_jeong20719" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=Naver&logoColor=FFFFFF"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cCcode02&show_icons=true&theme=radical)
